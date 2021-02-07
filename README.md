@@ -12,9 +12,10 @@ This template is not being used completely, just some parts.
 Hence, just see notebooks folder. 
 
 ### TODO's
-- [] from notebook to src folder
-- [] save model in models folder as results are being saving.
+- [ ] from notebook to src folder
+- [ ] save model in models folder as results are being saving.
 - [x] remove auto-documentation for sphinx (this project doesn't need docs)
+- [ ] create a notebook to executes the data-pipeline and model training directly. (using seed?)
 ________________________________
 
 Project Organization
