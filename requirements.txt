@@ -14,3 +14,6 @@ lightgbm
 xgboost
 sklearn
 optuna
+plotly
+mlxtend
+ipywidgets>=7.5
